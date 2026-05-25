@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Banananoob.aternos.me",
+    "port": 23985,
+    "version": "1.21.26.20"
   },
   "position": {
     "enabled": true,
